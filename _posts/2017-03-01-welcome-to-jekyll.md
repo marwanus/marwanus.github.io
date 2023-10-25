@@ -1,7 +1,11 @@
 ---
-title: "Welcome to Jekyll"
-layout: post
+title: "Research"
+layout: page
 ---
+
+## Research Interests
+
+My research interests lie in the area at the intersection of algebraic, arithmetic geometry and Gauge theory. I study point counting on Higgs V-bundles over orbifolds in order to deduce their cohomological invariants. 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
