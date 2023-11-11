@@ -3,7 +3,7 @@
 - **Infinite dimensional GIT**  
   *On the Hitchin morphism in positive characteristic*  
   - Winter Semester 2021
-  - Seminar program
+  - <a href="documents/cv-math-4.0.pdf" target="_blank">Seminar program.</a>
 
 - **Freie Universität Berlin, Berlin, Germany**  
   *Computing E-Polynomials for certain character varieties*  
