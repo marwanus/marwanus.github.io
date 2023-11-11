@@ -2,7 +2,8 @@
 layout: page
 title: Home
 ---
-PhD Student in algebraic geometry - Teaching Assistant at Freie Universität Berlin.
+PhD Student in algebraic geometry - Teaching Assistant at Freie Universität Berlin. <a href="marwnaus.github.io/document/cv-math-4.0.pdf" target="_blank">PDF.</a>
+
 <p align="right">
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
