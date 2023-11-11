@@ -2,4 +2,4 @@
 layout: page
 title: Home
 ---
-PhD Student - Teaching Assistant at Freie Universitaet Berlin.
+PhD Student in algebraic geometry - Teaching Assistant at Freie Universität Berlin.
