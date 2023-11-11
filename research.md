@@ -1,4 +1,4 @@
-## Conference Talks
+## Conference and seminar Talks
 
 - **Freie Universität Berlin, Berlin, Germany**  
   *On the Hitchin morphism in positive characteristic*  
