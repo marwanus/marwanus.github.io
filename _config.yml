@@ -21,8 +21,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "README.md", title: "Math journey"}  
   - {file: "contact.md", title: "Contact"}
-  - {file: "documents/cv-math-4.0.pdf", title: "CV"}
-
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:marwan.benyoussef@gmail.com"}
