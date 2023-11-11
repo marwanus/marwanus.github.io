@@ -4,10 +4,6 @@ title: Home
 ---
 PhD Student in algebraic geometry - Teaching Assistant at Freie Universität Berlin. <a href="documents/cv-math-4.0.pdf" target="_blank">PDF.</a>
 
-[foo](https://github.com/me/bar_repo/foo.pdf)
-[foo](https://github.com/marwanus/mben.github.io/blob/4da2b7be72867a292e7aaa48ff2d58c57cf37b31/documents/cv-math-4.0.pdf)
-
-
 <p align="center">
 <img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
 </p>
