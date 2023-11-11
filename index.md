@@ -5,7 +5,7 @@ title: Home
 PhD Student in algebraic geometry - Teaching Assistant at Freie Universität Berlin. <a href="documents/cv-math-4.0.pdf" target="_blank">PDF.</a>
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="documents/profile_pic.jpg" width="400" height="300" border="2"/>
 </p>
 
 - Email: &emsp;&emsp;&emsp; marwan.benyoussef@gmail.com
