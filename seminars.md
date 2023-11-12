@@ -8,7 +8,7 @@
     - Talk 2: Corepresentability ofthe moduli functor of semistable bundles.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk2-Corepresentability_of_mod_functor.pdf)
     - Talk 3: Theta instability theory.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk3-Theta-instability theory.pdf)
     - Talk 5: Classical vs Infinite dimensional GIT.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk5-Inf_dim_GIT_vs_Classical.pdf)
-    - Talk 6: Rational filling for torsion-free sheaves.[(notes)](https://marwanus.github.io/mben.github.io/documents/P-Talk6-Rational filling.pdf)
+    - Talk 6: Rational filling for torsion-free sheaves.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk6-Rational filling.pdf)
 
     - Talk 7: Theta stratifications.[(notes)](https://marwanus.github.io/mben.github.io/documents/P-Talk7-theta_stratif_Lambda_coh.pdf)
     - Talk 8: The geometric template.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk8-Geometric template.pdf)
