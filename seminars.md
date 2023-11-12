@@ -9,6 +9,8 @@
     - Talk 3: Theta instability theory.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk3-Theta-instability theory.pdf)
     - Talk 5: Classical vs Infinite dimensional GIT.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk5-Inf_dim_GIT_vs_Classical.pdf)
     - Talk 7: Theta stratifications.[(notes)](https://marwanus.github.io/mben.github.io/documents/P-Talk7-theta_stratif_Lambda_coh.pdf)
+    - Talk : The geometric template.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk8-Geometric template.pdf)
+
 
 
 
