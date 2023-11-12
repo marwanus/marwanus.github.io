@@ -2,7 +2,7 @@
 layout: page
 title: Home
 ---
-PhD Student in algebraic geometry - Teaching Assistant at Freie Universität Berlin. <a href="documents/cv-math-4.0.pdf" target="_blank">Curriculum vitae.</a>
+PhD Student in algebraic geometry - Teaching Assistant at Freie Universität Berlin. <a href="documents/cv-math-4.0.pdf" target="_blank">Curriculum vitae.</a>  <a href="documents/Program_Infinite_dimensional_GIT.pdf" target="_blank">Program.</a>
 
 <p align="center">
 <img src="documents/profile_pic.jpg" width="400" height="300" border="2"/>
