@@ -6,7 +6,7 @@
   - <a href="documents/seminars/Program_Infinite_dimensional_GIT.pdf" target="_blank">Seminar program.</a>
 
   - <a href="documents/Program_Infinite_dimensional_GIT.pdf" target="_blank">Seminar program.</a>
-
+  - <a href="documents/Program_Infinite_dimensional_GIT.pdf">Click Here Event Info</a>
 
 - **Freie Universität Berlin, Berlin, Germany**  
   *Computing E-Polynomials for certain character varieties*  
