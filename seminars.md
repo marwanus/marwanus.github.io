@@ -5,9 +5,9 @@
   - Winter Semester 2021 (a semiar co-organized with my colleague Juan Martin Perez Bernal)
   - [Seminar program.](https://marwanus.github.io/mben.github.io/documents/Program_Infinite_dimensional_GIT.pdf)
     - Talk 1: Affine grassmanians for GL_n.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk1-Affine Grassmanians.pdf)
-    - Talk 2: Corepresentability ofthe moduli functor of semistable bundles.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk2-Corepresentability_of_mod_functor)
+    - Talk 2: Corepresentability ofthe moduli functor of semistable bundles.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk2-Corepresentability_of_mod_functor.pdf)
     - Talk 3: Theta instability theory.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk3-Theta-instability theory.pdf)
-    - Talk 5: Classical vs Infinite dimensional GIT.[(notes)](https://marwanus.github.io/mben.github.io/documents/documents/L-Talk5-Inf_dim_GIT_vs_Classical.pdf)
+    - Talk 5: Classical vs Infinite dimensional GIT.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk5-Inf_dim_GIT_vs_Classical.pdf)
     - Talk 7: Theta stratifications.[(notes)](https://marwanus.github.io/mben.github.io/documents/P-Talk7-theta_stratif_Lambda_coh.pdf)
 
 
