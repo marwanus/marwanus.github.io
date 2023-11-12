@@ -7,7 +7,7 @@
 
   - <a href="documents/Program_Infinite_dimensional_GIT.pdf" target="_blank">Seminar program.</a>
   - <a href="documents/Program_Infinite_dimensional_GIT.pdf">Click Here Event Info</a>
-[GitHub Pages](documents/Program_Infinite_dimensional_GIT.pdf "With a Title")
+[GitHub Pages](https://marwanus.github.io/mben.github.io/documents/Program_Infinite_dimensional_GIT.pdf "With a Title bis")
 
 - **Freie Universität Berlin, Berlin, Germany**  
   *Computing E-Polynomials for certain character varieties*  
