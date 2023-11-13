@@ -1,7 +1,7 @@
 ## Seminars
 
 - **Complex Geometry research seminar** 
-  *Principle G-bundles for non-connected grousps G*  
+  *Principle G-bundles for non-connected groups G*  
   - Winter Semester 2023-2024 
      - Talk 2: Twisted equivariant structures on bundles.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk2-Principle G-bundles over non-connected Lie grps.pdf)
 
