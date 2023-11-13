@@ -1,5 +1,10 @@
 ## Seminars
 
+- **Complex Geometry research seminar** 
+  *Principle G-bundles for non-connected grousps G*  
+  - Winter Semester 2023-2024 
+     - Talk 2: Twisted equivariant structures on bundles.[(notes)](https://marwanus.github.io/mben.github.io/documents/L-Talk2-Principle G-bundles over non-connected Lie grps.pdf)
+
 - **Infinite dimensional GIT** 
   *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
   - Winter Semester 2021 (a semiar co-organized with my colleague Juan Martin Perez Bernal)
