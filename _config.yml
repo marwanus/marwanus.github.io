@@ -20,12 +20,12 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research"}
   - {file: "seminars.md", title: "Seminars"}
   - {file: "teaching.md", title: "Teaching"}
-  - {file: "README.md", title: "Math journey"}  
-  - {file: "contact.md", title: "Contact"}
+#  - {file: "README.md", title: "Math journey"}  
+#  - {file: "contact.md", title: "Contact"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:marwan.benyoussef@gmail.com"}
-  - {title: Github, icon: github, url: "https://marwanus.github.io/mben.github.io/"}
+#  - {title: Github, icon: github, url: "https://marwanus.github.io/mben.github.io/"}
   - {title: LinkedIn, icon: linkedin, url: "linkedin.com/in/marwan-benyoussef-94241542"}
 
 comments:
