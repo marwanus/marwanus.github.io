@@ -22,10 +22,6 @@
   - Summer Semester 2022 (a semiar co-organized with my colleague Juan Martin Perez Bernal)
   - [Seminar program.](https://marwanus.github.io/documents/program_Bridgeland_stability_SoSE22.pdf)    
 
-
-
-
-  
 - **Freie Universität Berlin, Berlin, Germany**  
   *Computing E-Polynomials for certain character varieties*  
   - 28 May 2021
