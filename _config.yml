@@ -20,7 +20,7 @@ titles_from_headings:
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home"}
+#  - {file: "index.html", title: "Home"}
   - {file: "research.md", title: "Research"}
   - {file: "seminars.md", title: "Seminars"}
   - {file: "teaching.md", title: "Teaching"}
