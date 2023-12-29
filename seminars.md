@@ -22,6 +22,11 @@
   - Summer Semester 2022 (a semiar co-organized with my colleague Juan Martin Perez Bernal)
   - [Seminar program.](https://marwanus.github.io/documents/program_Bridgeland_stability_SoSE22.pdf)
   - Talk 1: The motivating example of Num_X.[(notes)](https://marwanus.github.io/documents/L-Talk1-The_motivating_example_of_Num_X.pdf)
+  - Talk 3: The motivating example of Num_X.[(notes)](https://marwanus.github.io/documents/L-Talk3 - Bridgeland_stability_condition.pdf)
+  - Talk 4: The motivating example of Num_X.[(notes)](https://marwanus.github.io/documents/L-Talk4-Moduli_spaces.pdf)
+  - Talk 5: The motivating example of Num_X.[(notes)](https://marwanus.github.io/documents/L-Talk5-Walls_and_chambers.pdf)
+
+
 
 - **Freie Universität Berlin, Berlin, Germany**  
   *Computing E-Polynomials for certain character varieties*  
