@@ -16,6 +16,9 @@
     - Talk 6: Rational filling for torsion-free sheaves.[(notes)](https://marwanus.github.io/documents/L-Talk6-Rational filling.pdf)
     - Talk 7: Theta stratifications.[(notes)](https://marwanus.github.io/documents/P-Talk7-theta_stratif_Lambda_coh.pdf)
     - Talk 8: The geometric template.[(notes)](https://marwanus.github.io/documents/L-Talk8-Geometric template.pdf)
+- **Groebner Bases** 
+  *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
+  - Winter Semester 2022 (a semiar co-organized with my colleagues Juan-Martin Perez Bernal, Cesare Goretti and Jan Marten Sevenster)
 
 - **Bridgeland stability conditions** 
   *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
