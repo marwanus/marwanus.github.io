@@ -19,7 +19,7 @@
 
 - **Bridgeland stability conditions** 
   *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
-  - Summer Semester 2022 (a semiar co-organized with my colleague Juan Martin Perez Bernal)
+  - Summer Semester 2022 (a semiar co-organized with my colleague Juan-Martin Perez Bernal)
   - [Seminar program.](https://marwanus.github.io/documents/program_Bridgeland_stability_SoSE22.pdf)
   - Talk 1: The motivating example of Num_X.[(notes)](https://marwanus.github.io/documents/L-Talk1-The_motivating_example_of_Num_X.pdf)
   - Talk 3: Bridgeland stability conditions.[(notes)](https://marwanus.github.io/documents/L-Talk3-Bridgeland_stability_condition.pdf)
