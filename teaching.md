@@ -62,5 +62,5 @@
 
 ### Paris-Sud University, Orsay, France
 - **Part-time Lecturer**  
-  *C++ and Object Oriented development lecturer*  
+  *C++ and Object Oriented development and algorithms optimization  lecturer*  
   - Sep 2017 – Mar 2018
