@@ -9,8 +9,8 @@
 ### Freie Universität Berlin, Berlin, Germany
 - **Teaching Assistant, Algebra and number theory**  
   *AG Komplexe Analysis, under the direction of Prof. Dr. Alexander Schmitt*  
-  - Oct 2023 – Oct 2023
-    - Substituted a colleague for a three classes. The course included the following concepts: Divisibility in rings (especially the ring of integers and polynomial rings); residual classes and congruences; Modules and ideals, Euclidean, principal ideal and factorial rings, the square reciprocity law, prime number testing and cryptography,the structure of abelian groups (or modules over PIDs), theorem on symmetric functions, field extensions, Galois correspondence, Constructions with compass and ruler, non-abelian groups (Lagrange's theorem, normal subgroup, solvability, Sylow groups).
+  - Oct 2023 – Present
+    - Lecturing the following concepts: Divisibility in rings (especially the ring of integers and polynomial rings); residual classes and congruences; Modules and ideals, Euclidean, principal ideal and factorial rings, the square reciprocity law, prime number testing and cryptography,the structure of abelian groups (or modules over PIDs), theorem on symmetric functions, field extensions, Galois correspondence, Constructions with compass and ruler, non-abelian groups (Lagrange's theorem, normal subgroup, solvability, Sylow groups).
 
 ### Freie Universität Berlin, Berlin, Germany
 - **Teaching Assistant, Cybersecurity**  
