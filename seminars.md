@@ -16,12 +16,13 @@
   *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
   - Winter Semester 2021 (a semiar co-organized with my colleague Juan Martin Perez Bernal)
   - [Seminar program.](https://marwanus.github.io/documents/Program_Infinite_dimensional_GIT.pdf)
-    - Talk 1: Hitchin fibration for algebraic curves.[(notes)](https://marwanus.github.io/documents/L-Talk1-Affine Grassmanians.pdf)
-    - Talk 2: Spectral and cameral covers.[(notes)](https://marwanus.github.io/documents/L-Talk2-Corepresentability_of_mod_functor.pdf)
-    - Talk 3: Representability Lemma.[(notes)](https://marwanus.github.io/documents/L-Talk3-Theta-instability theory.pdf)
-    - Talk 4: Spectral data morphism and Hitchin map via Weyl polarization.[(notes)](https://marwanus.github.io/documents/L-Talk5-Inf_dim_GIT_vs_Classical.pdf)
-    - Talk 6: Cohen-Macaulay spectral surfaces.[(notes)](https://marwanus.github.io/documents/L-Talk6-Rational filling.pdf)
-    - Talk 7: Some examples and consequences.[(notes)](https://marwanus.github.io/documents/P-Talk7-theta_stratif_Lambda_coh.pdf)
+    - Talk 1: Hitchin fibration for algebraic curves.[(notes)](https://marwanus.github.io/documents/L-Talk1-Hitchin_fibration_algebraic_curves.pdf)
+    - Talk 2: Spectral covers.[(notes)](https://marwanus.github.io/documents/L-Talk2-Spectral-Covers.pdf)
+    - Talk 3: Cameral covers.[(notes)](https://marwanus.github.io/documents/L-Talk3-Cameral_covers.pdf)
+    - Talk 4: Representability Lemma.[(notes)](https://marwanus.github.io/documents/L-Talk4-representability_lemma.pdf)
+    - Talk 5: Spectral data morphism and Hitchin map via Weyl polarization.[(notes)](https://marwanus.github.io/documents/L-Talk5-spectral_data_morphism.pdf)
+    - Talk 6: Cohen-Macaulay spectral surfaces.[(notes)](https://marwanus.github.io/documents/L-Talk6-Cohen-Macaulay_spectral_surfaces.pdf)
+    - Talk 7: Some examples and consequences.[(notes)](https://marwanus.github.io/documents/L-Talk7-Some_examples.pdf)
 
 - **Bridgeland stability conditions** 
   *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
