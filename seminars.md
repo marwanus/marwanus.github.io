@@ -11,7 +11,16 @@
     - Talk 1: Groebner bases, commutative and non-commutative cases.[(notes)](https://marwanus.github.io/documents/L-Talk1-Grobner_bases.pdf)
     - Talk 2: Hochschield cohomology.[(notes)](https://marwanus.github.io/documents/L-Talk2-Hochschield_cohomology.pdf)
     - Talk 3: Exactness.[(notes)](https://marwanus.github.io/documents/L-Talk-3-Exactness.pdf)
-    - 
+
+- **Bridgeland stability conditions** 
+  *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
+  - Summer Semester 2022 (a semiar co-organized with my colleague Juan-Martin Perez Bernal)
+  - [Seminar program.](https://marwanus.github.io/documents/program_Bridgeland_stability_SoSE22.pdf)
+  - Talk 1: The motivating example of Num_X.[(notes)](https://marwanus.github.io/documents/L-Talk1-The_motivating_example_of_Num_X.pdf)
+  - Talk 3: Bridgeland stability conditions.[(notes)](https://marwanus.github.io/documents/L-Talk3-Bridgeland_stability_condition.pdf)
+  - Talk 4: Moduli Spaces.[(notes)](https://marwanus.github.io/documents/L-Talk4-Moduli_spaces.pdf)
+  - Talk 5: Walls_and_chambers.[(notes)](https://marwanus.github.io/documents/L-Talk5-Walls_and_chambers.pdf)
+     
 - **Infinite dimensional GIT** 
   *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
   - Winter Semester 2021 (a semiar co-organized with my colleague Juan Martin Perez Bernal)
@@ -23,15 +32,6 @@
     - Talk 6: Rational filling for torsion-free sheaves.[(notes)](https://marwanus.github.io/documents/L-Talk6-Rational filling.pdf)
     - Talk 7: Theta stratifications.[(notes)](https://marwanus.github.io/documents/P-Talk7-theta_stratif_Lambda_coh.pdf)
     - Talk 8: The geometric template.[(notes)](https://marwanus.github.io/documents/L-Talk8-Geometric template.pdf)
-
-- **Bridgeland stability conditions** 
-  *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
-  - Summer Semester 2022 (a semiar co-organized with my colleague Juan-Martin Perez Bernal)
-  - [Seminar program.](https://marwanus.github.io/documents/program_Bridgeland_stability_SoSE22.pdf)
-  - Talk 1: The motivating example of Num_X.[(notes)](https://marwanus.github.io/documents/L-Talk1-The_motivating_example_of_Num_X.pdf)
-  - Talk 3: Bridgeland stability conditions.[(notes)](https://marwanus.github.io/documents/L-Talk3-Bridgeland_stability_condition.pdf)
-  - Talk 4: Moduli Spaces.[(notes)](https://marwanus.github.io/documents/L-Talk4-Moduli_spaces.pdf)
-  - Talk 5: Walls_and_chambers.[(notes)](https://marwanus.github.io/documents/L-Talk5-Walls_and_chambers.pdf)
 
 - **Freie Universität Berlin, Berlin, Germany**  
   *Computing E-Polynomials for certain character varieties*  
