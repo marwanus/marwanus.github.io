@@ -15,7 +15,7 @@
   - **On the Hitchin morphism for higher dimensional varieties** 
   *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
   - Winter Semester 2021 (a semiar co-organized with my colleague Juan Martin Perez Bernal)
-  - [Seminar program.](https://marwanus.github.io/documents/Program_Infinite_dimensional_GIT.pdf)
+  - [Seminar program.](https://marwanus.github.io/documents/seminar_program_NGO_seminar.pdf)
     - Talk 1: Hitchin fibration for algebraic curves.[(notes)](https://marwanus.github.io/documents/L-Talk1-Hitchin_fibration_algebraic_curves.pdf)
     - Talk 2: Spectral covers.[(notes)](https://marwanus.github.io/documents/L-Talk2-Spectral-Covers.pdf)
     - Talk 3: Cameral covers.[(notes)](https://marwanus.github.io/documents/L-Talk3-Cameral_covers.pdf)
