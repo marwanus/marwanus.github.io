@@ -4,7 +4,14 @@
   *Principle G-bundles for non-connected groups G*  
   - Winter Semester 2023-2024 
      - Talk 2: Twisted equivariant structures on bundles.[(notes)](https://marwanus.github.io/documents/L-Talk2-Principle G-bundles over non-connected Lie grps.pdf)
-
+     - 
+- **Groebner Bases** 
+  *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
+  - Winter Semester 2023 (a semiar co-organized with my colleagues Juan-Martin Perez Bernal, Cesare Goretti and Jan Marten Sevenster)
+    - Talk 1: Groebner bases, commutative and non-commutative cases.[(notes)](https://marwanus.github.io/documents/L-Talk1-Grobner_bases.pdf)
+    - Talk 2: Hochschield cohomology.[(notes)](https://marwanus.github.io/documents/L-Talk2-Hochschield_cohomology.pdf)
+    - Talk 3: Exactness.[(notes)](https://marwanus.github.io/documents/L-Talk-3-Exactness.pdf)
+    - 
 - **Infinite dimensional GIT** 
   *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
   - Winter Semester 2021 (a semiar co-organized with my colleague Juan Martin Perez Bernal)
@@ -16,12 +23,6 @@
     - Talk 6: Rational filling for torsion-free sheaves.[(notes)](https://marwanus.github.io/documents/L-Talk6-Rational filling.pdf)
     - Talk 7: Theta stratifications.[(notes)](https://marwanus.github.io/documents/P-Talk7-theta_stratif_Lambda_coh.pdf)
     - Talk 8: The geometric template.[(notes)](https://marwanus.github.io/documents/L-Talk8-Geometric template.pdf)
-- **Groebner Bases** 
-  *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
-  - Winter Semester 2023 (a semiar co-organized with my colleagues Juan-Martin Perez Bernal, Cesare Goretti and Jan Marten Sevenster)
-    - Talk 1: Groebner bases, commutative and non-commutative cases.[(notes)](https://marwanus.github.io/documents/L-Talk1-Grobner_bases.pdf)
-    - Talk 2: Hochschield cohomology.[(notes)](https://marwanus.github.io/documents/L-Talk2-Hochschield_cohomology.pdf)
-    - Talk 3: Exactness.[(notes)](https://marwanus.github.io/documents/L-Talk-3-Exactness.pdf)
 
 - **Bridgeland stability conditions** 
   *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
@@ -31,8 +32,6 @@
   - Talk 3: Bridgeland stability conditions.[(notes)](https://marwanus.github.io/documents/L-Talk3-Bridgeland_stability_condition.pdf)
   - Talk 4: Moduli Spaces.[(notes)](https://marwanus.github.io/documents/L-Talk4-Moduli_spaces.pdf)
   - Talk 5: Walls_and_chambers.[(notes)](https://marwanus.github.io/documents/L-Talk5-Walls_and_chambers.pdf)
-
-
 
 - **Freie Universität Berlin, Berlin, Germany**  
   *Computing E-Polynomials for certain character varieties*  
