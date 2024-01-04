@@ -18,7 +18,10 @@
     - Talk 8: The geometric template.[(notes)](https://marwanus.github.io/documents/L-Talk8-Geometric template.pdf)
 - **Groebner Bases** 
   *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
-  - Winter Semester 2022 (a semiar co-organized with my colleagues Juan-Martin Perez Bernal, Cesare Goretti and Jan Marten Sevenster)
+  - Winter Semester 2023 (a semiar co-organized with my colleagues Juan-Martin Perez Bernal, Cesare Goretti and Jan Marten Sevenster)
+    - Talk 1: Groebner bases, commutative and non-commutative cases.[(notes)](https://marwanus.github.io/documents/L-Talk1-Grobner_bases.pdf)
+    - Talk 2: Hochschield cohomology.[(notes)](https://marwanus.github.io/documents/L-Talk2-Hochschield_cohomology.pdf)
+    - Talk 3: Exactness.[(notes)](https://marwanus.github.io/documents/L-Talk-3-Exactness.pdf)
 
 - **Bridgeland stability conditions** 
   *Infinite dimensional Geometric Invariant Theory via affine grassmanians*  
